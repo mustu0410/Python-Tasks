@@ -1,0 +1,5 @@
+Data Structure,Ordered,Mutable,Constructor,Examples
+list,yes,yes ,[ ] or list( ),"[ 1,2.5,'mustafa']"
+tuple,yes,no ,( )or tuple( ),"(1, 2.5 , 'mustafa,-1 )"
+set,no,yes ,{ } or set( ),"{1,2,3,4}"
+dictionary,no,no ,"{ : ,  } or dict( )","{Month: January, Day :19}"
